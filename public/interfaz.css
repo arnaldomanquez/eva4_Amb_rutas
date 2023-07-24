@@ -1,5 +1,5 @@
 body {
-  background: #ffffff;  /* fallback for old browsers */
+    background: #ffffff;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to top, #0b8793, #360033);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to top, #0b8793, #360033); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
@@ -7,16 +7,16 @@ background: linear-gradient(to top, #0b8793, #360033); /* W3C, IE 10+/ Edge, Fir
 
 .bg-white {
 
-  background-color:rgb(255, 255, 255);
+    background-color:rgb(255, 255, 255);
 }
 .img{
-  width: 20px;
-  height: 20px;
-}
+    width: 20px;
+    height: 20px;
+  }
 
 .card-body{
 
-  width: 1400px;
-  height: 55px;
-  
+    width: 1400px;
+    height: 55px;
+    
 }
