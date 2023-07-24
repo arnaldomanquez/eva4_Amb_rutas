@@ -8,7 +8,7 @@ const Navbar = () => {
     
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">  
             <div class="container-fluid">
-            <a class="navbar-brand" href="#">PERFUMES AVMB</a>
+            <a class="navbar-brand" href="/">PERFUMES AVMB</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -21,8 +21,12 @@ const Navbar = () => {
                     <Link class="nav-link" to="/hombres">HOMBRES</Link>
                 </li>
                 <li class="nav-item dropdown">
-                    <Link class="nav-link dropdown-toggle" to="mujeres" >MUJERES</Link>
+                    <Link class="nav-link" to="/mujeres" >MUJERES</Link>
                 </li>
+                <li class="nav-item dropdown">
+                    <Link class="nav-link" to="/Contacto" >INGRESO</Link>
+                </li>
+
                 
                 </ul>
                 

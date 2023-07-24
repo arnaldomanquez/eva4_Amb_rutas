@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+
+.box1{
+  background-color:rgb(52, 53, 54);
+  font-family: Calibri;
+  font-size: 15px;
+  color: white;
+  width:380px;
+  height: 630px;
+  text-align: justify;
+  padding-right: 60px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  border: 15px ridge rgb(221, 231, 189);
+  margin: 40px;
+  position: relative;
+}
+.box2{
+  background-color:rgb(52, 53, 54);
+  font-family: Calibri;
+  font-size: 15px;
+  color: white;
+  width:380px;
+  height: 250px;
+  text-align: justify;
+  padding-right: 60px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  border: 15px ridge rgb(221, 231, 189);
+  margin: 40px;
+  position: relative;
+}
